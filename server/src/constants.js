@@ -1,1 +1,1 @@
-export const DBName = "LeadManagement";
+export const DBName = "CruxCRM";

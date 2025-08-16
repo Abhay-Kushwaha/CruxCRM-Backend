@@ -1,7 +1,7 @@
 {
-  "name": "create-indibus-api",
+  "name": "cruxcrm-backend",
   "version": "1.0.1",
-  "description": "Indibus Framework for api building ",
+  "description": "CruxCRM Project Backend ",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
@@ -11,14 +11,14 @@
   "bin": "./bin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/indi4services/indibus-api-maker.git"
+    "url": "git+https://github.com/Abhay-Kushwaha/CruxCRM-Backend.git"
   },
   "author": "Zift API building",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/indi4services/indibus-api-maker/issues"
+    "url": "https://github.com/Abhay-Kushwaha/CruxCRM-Backend/issues"
   },
-  "homepage": "https://github.com/indi4services/indibus-api-maker#readme",
+  "homepage": "https://github.com/Abhay-Kushwaha/CruxCRM-Backend#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cloudinary": "^2.6.0",
